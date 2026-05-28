@@ -3,7 +3,7 @@
   <img
     alt="Datalab logo"
     src="https://github.com/namanvirk18/surya/raw/master/static/DataLab-Surya-2.png"
-    width="200"
+    width="300"
     style="margin-bottom: -15px;"
   >
 </a>
