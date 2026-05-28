@@ -2,13 +2,11 @@
 <a href="https://www.datalab.to">
   <img
     alt="Datalab logo"
-    src="https://github.com/namanvirk18/surya/raw/master/static/datalab-logo.png"
+    src="https://github.com/namanvirk18/surya/raw/master/static/DataLab-Surya-2.png"
     width="200"
     style="margin-bottom: -15px;"
   >
 </a>
-
-<h3 style="margin-top: 0; margin-bottom: 5px;">Surya</h3>
 
 <a href="https://www.apache.org/licenses/LICENSE-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache--2.0-green.svg" alt="Code License">
