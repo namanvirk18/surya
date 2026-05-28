@@ -3,12 +3,10 @@
   <img
     alt="Surya logo"
     src="https://github.com/namanvirk18/surya/raw/master/static/DataLab-Surya-2.png"
-    width="120"
+    width="170"
     style="margin-bottom: -10px;"
   >
 </a>
-
-<h2 style="margin-top: 0;">Surya</h2>
 
 <h4 style="margin-top: -10px;">650M param OCR model delivering 83.3% accuracy with layout analysis, table recognition, and 90+ language support.</h4>
 
