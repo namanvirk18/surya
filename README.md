@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord">
 </a>
 
+<br><br>
+
 <p style="max-width: 900px; margin: 15px auto; text-align: center;">650M param OCR model delivering 83.3% accuracy with layout analysis, table recognition, and 90+ language support.</p>
 
 </div>
