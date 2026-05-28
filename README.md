@@ -3,10 +3,12 @@
   <img
     alt="Datalab logo"
     src="https://github.com/namanvirk18/surya/raw/master/static/DataLab-Surya-2.png"
-    width="300"
+    width="200"
     style="margin-bottom: -15px;"
   >
 </a>
+
+<br>
 
 <a href="https://www.apache.org/licenses/LICENSE-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache--2.0-green.svg" alt="Code License">
@@ -18,7 +20,7 @@
   <img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Discord">
 </a>
 
-<br><br>
+<br>
 
 <p style="max-width: 900px; margin: 15px auto; text-align: center;">650M param OCR model delivering 83.3% accuracy with layout analysis, table recognition, and 90+ language support.</p>
 
