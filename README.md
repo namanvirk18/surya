@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<p style="max-width: 900px; margin: 15px auto; text-align: center;">650M param OCR model delivering 83.3% accuracy with layout analysis, table recognition, and 90+ language support.</p>
+<p style="max-width: 900px; margin: 15px auto; text-align: center;">650M param OCR model with 83.3% accuracy, layout analysis, table recognition, and 90+ language support.</p>
 
 </div>
 
