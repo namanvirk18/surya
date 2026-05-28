@@ -2,8 +2,8 @@
 <a href="https://www.datalab.to">
   <img
     alt="Datalab logo"
-    src="https://github.com/namanvirk18/surya/raw/master/static/DataLab-Surya-2.png"
-    width="300"
+    src="https://github.com/namanvirk18/surya/raw/master/static/datalab-surya-2-ocr.png"
+    width="200"
     style="margin-bottom: -15px;"
   >
 </a>
